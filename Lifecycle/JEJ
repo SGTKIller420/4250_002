@@ -1,20 +1,20 @@
-Josh Rucevice, Jerry Gallway, Josh Rimell  (work divided evenly across team members)
+Josh Rucevice, Jerry Gallway, Josh Rimell
 
   - Capability Maturity Model Integration (CMMI) is a creation of a buisness model in order for products and services to evolve into a reliable stream of improvements.
 
 Software Engineering Lifecycle Phases, Definitions & Descriptions:
 
-1) Requirements: Gathering needs and minimum functions to conceptualize the scope of the project.
+1) Requirements: Gathering needs and minimum functions to conceptualize the scope of the project.  (Josh Rimell)
   - Consulting and gathering information from the Project Lead and customers
   - Meeting needs
   - Constraints and limitations
   - Expertise involved/ specific descriptions
-2) Design: The process of creating a plan or model in order to meet listed requirements.
+2) Design: The process of creating a plan or model in order to meet listed requirements.   (Josh Rimell)
   - How a system will be structured and function/ creating a model/ overall architecture
   - Detailed technical specifications/ inputs from customers and requirements gathering
   - Decision making
   - Team layout & organization
-3) Implementation: The process of engineering the product based on requirements and design.
+3) Implementation: The process of engineering the product based on requirements and design.   (Josh Rimell)
   - Proper integration
   - Updates as needed
   - Solidifies theoretical concepts
