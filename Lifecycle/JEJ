@@ -32,8 +32,8 @@ Software Engineering Lifecycle Phases, Definitions & Descriptions:
   - Integration testing, user acceptance testing, performance testing, security testing
   - Documentation of results
   - Meets requirements
-5) Release: The process after testing where the product or service is sold or in its "go live" phase. 
-  - Installation and deployment                                                                        (Jerry)
+5) Release: The process after testing where the product or service is sold or in its "go live" phase.   (Jerry)
+  - Installation and deployment
   - User feedback
   - Documentation
   - Support for current system
