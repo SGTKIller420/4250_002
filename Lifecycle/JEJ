@@ -41,12 +41,16 @@ Software Engineering Lifecycle Phases, Definitions & Descriptions:
   - Plan for release
   - Availability and distribution to users/customers
   - Support on launch
-6) Support/Maintenance: Includes ongoing support, bug fixes, and updates.
-  -
-  -
-  -
-7) Upgrades/Updates: Changes of any size to a system. It includes new features or modifications
-  -
-  -
-  -
-  -
+6) Support/Maintenance: Includes ongoing support, bug fixes, and updates. (Josh Rimell)
+  - Allocates resources
+  - Fixing defects
+  - Bug fixes
+  - Security updates
+  - Prevent issues
+  - Keeping the system functional/ ongoing support
+  - Keeping customer and team informed on updates
+7) Upgrades/Updates: Changes of any size to a system. It includes new features or modifications. (Josh Rimell)
+  - Covers changes of any size that results in new features
+  - More advanced security
+  - Updates are regular
+  - Upgrades can involve migration to new technology
